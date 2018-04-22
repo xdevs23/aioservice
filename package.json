@@ -1,0 +1,11 @@
+{
+  "name": "aioservice",
+  "version": "1.0.0",
+  "description": "Easy to use Plug & Play web server for scanning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simão Gomes Viana",
+  "license": "MIT"
+}
