@@ -6,8 +6,7 @@ Easy to use plug & play web server for scanning
 
 The `scanimage` command, Imagemick for converting between formats (`pnmtojpeg`, `convert`)
 
-
-How to use it:
+### Usage
 
 ```bash
 node index.js
